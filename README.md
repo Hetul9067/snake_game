@@ -1,8 +1,8 @@
 # snake_game
-Snake Game
+Snake Game:-
   This is a simple implementation of the classic Snake Game using Java Swing.
 
-Table of Contents
+Table of Contents:-
   Introduction
   Features
   Setup
@@ -10,7 +10,7 @@ Table of Contents
   Game Rules
   Contributing
 
-Introduction
+Introduction:-
   This Snake Game is built using Java and Swing for the graphical user interface. It allows the player to control a snake to eat food and grow in size. The game ends if the snake collides with itself or the wall.
 
 
@@ -22,12 +22,12 @@ Features:-
   Clone the Repository:
 
 bash
-Copy code
+Copy code:-
   git clone https://github.com/your-username/SnakeGame.git
 Open in IDE:
 Import the project into your preferred Java IDE.
 
-Run the Game:
+Run the Game:-
 Locate the SnakeGame class and run it to start the game.
 
 Controls:-
